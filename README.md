@@ -1,7 +1,7 @@
 
 <!--##  Hi there 👋 I'm Diana Francitorra✨✨-->
 <div align="center">
-  <h1 align="center">Hi there 👋 I'm Diana Francitorra✨</h1>
+  <h1 align="center">Hi there 👋 I'm Diana✨</h1>
 </div>
 
 <div align="center">
