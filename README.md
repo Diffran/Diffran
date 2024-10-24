@@ -5,7 +5,6 @@
 </div>
 
 <div align="center">
-  <!-- <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"> -->
   <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=ecf05e478u50dokv9h6dkndy585hnsni14mzu4zcigrn7re7&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="350">
 </div>
 
