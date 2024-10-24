@@ -12,12 +12,12 @@
 ---
 ### 👩🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying an Advanced Technical Degree of Multiplataform App Development at the IOC.\
-📱 &nbsp;I would love to work as a mobile developer or a backend developer
-🌱 &nbsp;I'm learning Kotlin currently.\
+💡 &nbsp;I like to explore **new technologies and develop software** solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying an **Advanced Technical Degree of Multiplataform App Development** at the IOC.\
+📱 &nbsp;I would love to work as a **mobile developer or a backend developer**.\
+🌱 &nbsp;I'm currently **learning Kotlin**.\
 🎨 &nbsp;I'm also an artist, I've studyied **Grafic Arts** and participated in a movie as a background/concept artist!!!!\
-🎮 &nbsp;In my free time, I like to play videogames, currently playing Outer Wilds.\
+🎮 &nbsp;In my free time, I like to **play videogames**, currently playing Outer Wilds.\
 📬 &nbsp;Feel free to reach out to me at dianafrancitorraferran@gmail.com
 
 ---
