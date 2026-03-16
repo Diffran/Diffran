@@ -16,7 +16,7 @@
 📱 &nbsp;I would love to work as a **mobile developer or a backend developer**.\
 🌱 &nbsp;I'm currently **learning React and javascript**.\
 🎨 &nbsp;I'm also an artist, I've studyied **Grafic Arts** and participated in a movie as a background/concept artist!!!!\
-🎮 &nbsp;In my free time, I like to **play videogames**, currently playing Silksong.\
+🎮 &nbsp;In my free time, I like to **play videogames**, currently dying in Silksong.\
 📬 &nbsp;Feel free to reach out to me at dianafrancitorraferran@gmail.com
 
 ---
